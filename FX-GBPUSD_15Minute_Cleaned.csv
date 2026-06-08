@@ -4,7 +4,7 @@ Chart Info: FX:GBPUSD
 Timeframe: 15 Minute(s)
 Timezone: America/New_York
 Start Date: 2026-03-31 16:30 (Actual)
-End Date: 2026-06-05 16:45 (Actual)
+End Date: Last Candle
 Data Format: YYYYMMDD HHMM;Open;High;Low;Close;Volume
 ===================================="
 20260331 1630;1.32288;1.32295;1.32257;1.32275;5572
