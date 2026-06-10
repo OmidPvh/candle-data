@@ -1,18 +1,16 @@
-
-=============================================
-🏆 INSTITUTIONAL BACKTEST REPORT [V1.42 - Future-Proof Apex] 🏆
-Total Trades: 31
-Wins: 24 | Losses: 7
-Win Rate: 77.42%
-Net Units (R): +17.00 R
-=============================================
+=======================================================
+📥 Loading LTF (3M) Data & Starting Simulation...
+=======================================================
+🏆 INSTITUTIONAL REPORT [V1.43 - The Holy Grail (Twin-Engine)] - TF: 3M 🏆
+Total Trades: 25
+Wins: 23 | Losses: 2
+Win Rate: 92.00%
+Net Units (R): +21.00 R
 
 📝 DETAILED TRADE JOURNAL:
-05-11 Hr:10 | SHT | L | VW:-2.9 | Vx:1.3 | PB:3.6 | Prc:0.9 | RN:8.2 | ADX:28 | EG:4.6 | hRSI:44 | ATR:5.1 | B:3 | SL:9.1
 05-11 Hr:12 | LNG | W | VW:15.2 | Vx:1.1 | PB:5.1 | Prc:4.4 | RN:11.4 | ADX:19 | EG:8.3 | hRSI:51 | ATR:4.7 | B:16 | SL:8.5
 05-12 Hr:13 | SHT | W | VW:-21.6 | Vx:0.8 | PB:3.9 | Prc:3.6 | RN:21.1 | ADX:20 | EG:52.0 | hRSI:48 | ATR:5.5 | B:1 | SL:10.0
 05-12 Hr:14 | SHT | W | VW:-23.7 | Vx:0.9 | PB:5.4 | Prc:2.5 | RN:22.2 | ADX:19 | EG:55.4 | hRSI:46 | ATR:6.1 | B:15 | SL:11.1
-05-13 Hr:07 | SHT | L | VW:-11.9 | Vx:1.6 | PB:4.6 | Prc:0.1 | RN:24.9 | ADX:22 | EG:21.6 | hRSI:39 | ATR:4.4 | B:9 | SL:7.8
 05-13 Hr:09 | SHT | W | VW:-16.1 | Vx:1.6 | PB:3.2 | Prc:4.5 | RN:18.0 | ADX:18 | EG:27.3 | hRSI:41 | ATR:4.3 | B:12 | SL:7.8
 05-13 Hr:10 | SHT | W | VW:-19.3 | Vx:1.0 | PB:3.7 | Prc:3.5 | RN:9.1 | ADX:17 | EG:36.6 | hRSI:41 | ATR:5.7 | B:29 | SL:10.3
 05-14 Hr:07 | SHT | W | VW:-9.9 | Vx:1.0 | PB:3.1 | Prc:1.3 | RN:15.1 | ADX:21 | EG:12.2 | hRSI:44 | ATR:3.2 | B:14 | SL:7.5
@@ -22,21 +20,60 @@ Net Units (R): +17.00 R
 05-15 Hr:14 | SHT | W | VW:-12.6 | Vx:0.8 | PB:3.3 | Prc:2.3 | RN:2.4 | ADX:19 | EG:82.7 | hRSI:47 | ATR:5.5 | B:9 | SL:9.9
 05-19 Hr:08 | SHT | W | VW:-15.7 | Vx:1.5 | PB:3.6 | Prc:3.0 | RN:2.7 | ADX:19 | EG:5.4 | hRSI:43 | ATR:4.1 | B:17 | SL:7.5
 05-19 Hr:11 | LNG | W | VW:0.3 | Vx:0.8 | PB:3.2 | Prc:1.0 | RN:9.2 | ADX:22 | EG:5.4 | hRSI:51 | ATR:4.4 | B:23 | SL:8.0
-05-19 Hr:13 | SHT | W | VW:-11.4 | Vx:1.7 | PB:4.7 | Prc:0.3 | RN:2.5 | ADX:18 | EG:8.5 | hRSI:51 | ATR:4.9 | B:7 | SL:8.9
 05-19 Hr:14 | SHT | W | VW:-12.7 | Vx:1.1 | PB:2.2 | Prc:3.4 | RN:5.4 | ADX:21 | EG:2.8 | hRSI:49 | ATR:5.0 | B:6 | SL:8.9
 05-20 Hr:07 | SHT | W | VW:-3.1 | Vx:1.7 | PB:2.1 | Prc:4.2 | RN:10.6 | ADX:13 | EG:4.7 | hRSI:53 | ATR:4.3 | B:11 | SL:7.7
 05-21 Hr:07 | LNG | W | VW:0.6 | Vx:0.8 | PB:2.1 | Prc:5.0 | RN:18.6 | ADX:24 | EG:13.6 | hRSI:43 | ATR:4.0 | B:5 | SL:7.5
 05-21 Hr:15 | SHT | W | VW:-19.5 | Vx:1.2 | PB:5.7 | Prc:3.2 | RN:6.3 | ADX:16 | EG:7.5 | hRSI:46 | ATR:5.7 | B:2 | SL:10.2
 05-22 Hr:07 | LNG | W | VW:-0.9 | Vx:0.9 | PB:2.1 | Prc:6.4 | RN:24.8 | ADX:29 | EG:1.8 | hRSI:33 | ATR:3.3 | B:17 | SL:7.5
-05-22 Hr:09 | SHT | L | VW:-6.7 | Vx:0.7 | PB:2.1 | Prc:0.5 | RN:19.8 | ADX:24 | EG:4.1 | hRSI:49 | ATR:3.3 | B:12 | SL:7.5
 05-22 Hr:12 | LNG | W | VW:-0.5 | Vx:0.6 | PB:1.5 | Prc:2.4 | RN:24.9 | ADX:22 | EG:0.7 | hRSI:48 | ATR:3.5 | B:5 | SL:7.5
-05-22 Hr:14 | LNG | L | VW:4.6 | Vx:1.0 | PB:3.3 | Prc:4.9 | RN:17.3 | ADX:20 | EG:6.9 | hRSI:45 | ATR:4.9 | B:2 | SL:8.9
 05-26 Hr:11 | SHT | W | VW:-8.1 | Vx:1.3 | PB:3.9 | Prc:1.1 | RN:24.1 | ADX:21 | EG:5.8 | hRSI:50 | ATR:3.1 | B:9 | SL:7.5
 05-27 Hr:07 | SHT | W | VW:-2.0 | Vx:0.7 | PB:1.4 | Prc:2.3 | RN:0.1 | ADX:23 | EG:10.7 | hRSI:50 | ATR:2.5 | B:12 | SL:7.5
 05-29 Hr:07 | SHT | W | VW:-7.7 | Vx:0.8 | PB:3.5 | Prc:1.7 | RN:17.6 | ADX:23 | EG:4.4 | hRSI:54 | ATR:3.3 | B:4 | SL:7.5
 05-29 Hr:14 | LNG | W | VW:12.6 | Vx:1.3 | PB:6.4 | Prc:5.1 | RN:6.2 | ADX:22 | EG:3.6 | hRSI:62 | ATR:4.8 | B:1 | SL:8.7
-06-02 Hr:14 | LNG | L | VW:8.4 | Vx:0.7 | PB:3.4 | Prc:3.6 | RN:24.3 | ADX:20 | EG:14.1 | hRSI:46 | ATR:3.3 | B:41 | SL:7.5
-06-03 Hr:15 | SHT | L | VW:-18.6 | Vx:0.8 | PB:4.0 | Prc:5.3 | RN:22.7 | ADX:24 | EG:23.0 | hRSI:47 | ATR:4.9 | B:5 | SL:8.8
+06-02 Hr:14 | LNG | L | VW:12.0 | Vx:0.8 | PB:4.1 | Prc:1.4 | RN:20.7 | ADX:21 | EG:14.4 | hRSI:46 | ATR:3.4 | B:4 | SL:7.5
+06-02 Hr:15 | LNG | L | VW:10.9 | Vx:1.1 | PB:3.7 | Prc:1.0 | RN:21.4 | ADX:16 | EG:14.8 | hRSI:52 | ATR:4.0 | B:27 | SL:7.5
 06-08 Hr:08 | SHT | W | VW:-4.1 | Vx:0.8 | PB:3.2 | Prc:2.8 | RN:20.5 | ADX:15 | EG:52.6 | hRSI:51 | ATR:4.3 | B:4 | SL:7.7
-06-08 Hr:15 | SHT | L | VW:-1.8 | Vx:1.0 | PB:2.0 | Prc:2.9 | RN:12.3 | ADX:19 | EG:27.9 | hRSI:46 | ATR:4.5 | B:7 | SL:8.2
----------------------------------------------
+
+=======================================================
+📥 Loading LTF (5M) Data & Starting Simulation...
+=======================================================
+🏆 INSTITUTIONAL REPORT [V1.43 - The Holy Grail (Twin-Engine)] - TF: 5M 🏆
+Total Trades: 31
+Wins: 18 | Losses: 13
+Win Rate: 58.06%
+Net Units (R): +5.00 R
+
+📝 DETAILED TRADE JOURNAL:
+05-04 Hr:15 | SHT | W | VW:-13.7 | Vx:1.0 | PB:4.2 | Prc:1.9 | RN:2.5 | ADX:17 | EG:13.8 | hRSI:46 | ATR:6.0 | B:1 | SL:9.1
+05-04 Hr:15 | SHT | W | VW:-24.9 | Vx:1.7 | PB:8.5 | Prc:2.5 | RN:8.9 | ADX:19 | EG:14.2 | hRSI:45 | ATR:7.0 | B:5 | SL:10.4
+05-05 Hr:12 | SHT | L | VW:-1.1 | Vx:1.6 | PB:2.4 | Prc:2.3 | RN:17.6 | ADX:17 | EG:9.5 | hRSI:53 | ATR:4.9 | B:2 | SL:7.5
+05-07 Hr:12 | LNG | L | VW:14.8 | Vx:1.4 | PB:5.6 | Prc:5.3 | RN:23.1 | ADX:21 | EG:27.3 | hRSI:54 | ATR:4.5 | B:22 | SL:7.5
+05-07 Hr:14 | LNG | L | VW:17.9 | Vx:1.5 | PB:4.0 | Prc:2.9 | RN:19.9 | ADX:16 | EG:27.4 | hRSI:49 | ATR:5.4 | B:5 | SL:8.1
+05-11 Hr:12 | LNG | L | VW:17.0 | Vx:1.2 | PB:3.6 | Prc:3.3 | RN:13.4 | ADX:16 | EG:7.2 | hRSI:51 | ATR:6.1 | B:5 | SL:9.2
+05-12 Hr:13 | SHT | W | VW:-21.6 | Vx:1.0 | PB:6.4 | Prc:7.3 | RN:21.1 | ADX:19 | EG:49.7 | hRSI:48 | ATR:7.2 | B:1 | SL:10.9
+05-14 Hr:07 | SHT | L | VW:-11.9 | Vx:1.0 | PB:6.0 | Prc:1.6 | RN:13.1 | ADX:21 | EG:11.6 | hRSI:44 | ATR:4.2 | B:5 | SL:7.5
+05-14 Hr:10 | SHT | W | VW:-9.3 | Vx:1.0 | PB:3.2 | Prc:1.4 | RN:12.1 | ADX:16 | EG:15.3 | hRSI:48 | ATR:4.2 | B:15 | SL:7.5
+05-14 Hr:14 | SHT | W | VW:-12.8 | Vx:0.6 | PB:4.2 | Prc:1.1 | RN:3.2 | ADX:27 | EG:20.2 | hRSI:48 | ATR:5.1 | B:2 | SL:7.7
+05-15 Hr:08 | SHT | W | VW:-5.9 | Vx:1.0 | PB:6.0 | Prc:6.7 | RN:11.3 | ADX:19 | EG:95.9 | hRSI:48 | ATR:6.7 | B:3 | SL:10.0
+05-15 Hr:11 | SHT | W | VW:-4.1 | Vx:0.7 | PB:4.7 | Prc:4.3 | RN:9.7 | ADX:26 | EG:82.3 | hRSI:50 | ATR:6.5 | B:8 | SL:9.8
+05-15 Hr:13 | SHT | W | VW:-14.1 | Vx:1.6 | PB:7.6 | Prc:5.5 | RN:1.9 | ADX:13 | EG:80.7 | hRSI:49 | ATR:6.5 | B:2 | SL:9.7
+05-19 Hr:11 | LNG | W | VW:-0.5 | Vx:0.8 | PB:4.1 | Prc:1.2 | RN:8.4 | ADX:22 | EG:5.6 | hRSI:51 | ATR:5.8 | B:14 | SL:8.7
+05-19 Hr:13 | SHT | L | VW:-18.4 | Vx:1.1 | PB:6.5 | Prc:1.3 | RN:9.8 | ADX:17 | EG:6.4 | hRSI:44 | ATR:6.2 | B:7 | SL:9.2
+05-19 Hr:14 | SHT | W | VW:-13.2 | Vx:1.6 | PB:8.0 | Prc:2.5 | RN:6.1 | ADX:18 | EG:3.7 | hRSI:49 | ATR:6.2 | B:3 | SL:9.3
+05-20 Hr:14 | SHT | L | VW:-3.2 | Vx:1.7 | PB:4.1 | Prc:1.7 | RN:10.5 | ADX:17 | EG:0.1 | hRSI:48 | ATR:4.7 | B:3 | SL:7.5
+05-21 Hr:12 | SHT | W | VW:-17.3 | Vx:1.3 | PB:4.3 | Prc:1.4 | RN:13.8 | ADX:26 | EG:10.0 | hRSI:47 | ATR:6.2 | B:4 | SL:9.4
+05-22 Hr:08 | LNG | W | VW:3.0 | Vx:1.0 | PB:4.0 | Prc:3.4 | RN:21.0 | ADX:20 | EG:3.0 | hRSI:49 | ATR:3.9 | B:4 | SL:7.5
+05-22 Hr:12 | LNG | W | VW:0.4 | Vx:0.6 | PB:2.5 | Prc:3.3 | RN:23.9 | ADX:17 | EG:1.6 | hRSI:48 | ATR:4.3 | B:4 | SL:7.5
+05-26 Hr:09 | LNG | W | VW:-0.5 | Vx:0.7 | PB:4.5 | Prc:2.7 | RN:18.3 | ADX:19 | EG:2.9 | hRSI:46 | ATR:4.1 | B:21 | SL:7.5
+05-27 Hr:09 | SHT | W | VW:-3.1 | Vx:0.7 | PB:1.5 | Prc:1.4 | RN:2.6 | ADX:20 | EG:12.4 | hRSI:50 | ATR:3.2 | B:8 | SL:7.5
+05-27 Hr:14 | SHT | W | VW:-17.8 | Vx:1.5 | PB:8.9 | Prc:8.6 | RN:20.7 | ADX:15 | EG:13.0 | hRSI:56 | ATR:7.6 | B:1 | SL:11.4
+05-28 Hr:08 | SHT | L | VW:-3.3 | Vx:0.7 | PB:2.2 | Prc:2.0 | RN:4.0 | ADX:20 | EG:34.6 | hRSI:50 | ATR:3.9 | B:2 | SL:7.5
+05-29 Hr:07 | SHT | W | VW:-7.8 | Vx:1.0 | PB:4.0 | Prc:3.6 | RN:17.6 | ADX:22 | EG:4.5 | hRSI:54 | ATR:3.6 | B:3 | SL:7.5
+06-01 Hr:08 | LNG | W | VW:10.0 | Vx:1.0 | PB:2.3 | Prc:1.3 | RN:17.1 | ADX:20 | EG:16.6 | hRSI:51 | ATR:3.9 | B:10 | SL:7.5
+06-02 Hr:14 | LNG | L | VW:11.4 | Vx:0.8 | PB:6.0 | Prc:3.4 | RN:21.3 | ADX:24 | EG:13.9 | hRSI:46 | ATR:4.4 | B:2 | SL:7.5
+06-02 Hr:15 | LNG | L | VW:11.1 | Vx:1.0 | PB:4.8 | Prc:2.1 | RN:21.3 | ADX:19 | EG:14.1 | hRSI:52 | ATR:5.0 | B:16 | SL:7.5
+06-03 Hr:08 | SHT | L | VW:-11.3 | Vx:0.9 | PB:5.9 | Prc:1.5 | RN:5.7 | ADX:20 | EG:5.8 | hRSI:45 | ATR:4.7 | B:18 | SL:7.5
+06-03 Hr:15 | SHT | L | VW:-18.3 | Vx:0.8 | PB:8.0 | Prc:1.7 | RN:22.6 | ADX:28 | EG:19.4 | hRSI:47 | ATR:5.9 | B:2 | SL:8.8
+06-08 Hr:15 | SHT | L | VW:-2.7 | Vx:0.9 | PB:8.1 | Prc:3.5 | RN:13.2 | ADX:19 | EG:28.5 | hRSI:46 | ATR:6.0 | B:4 | SL:9.0
+
+✅ All Backtests Completed Successfully!
