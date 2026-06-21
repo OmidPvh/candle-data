@@ -1,55 +1,70 @@
 
-🏆 INSTITUTIONAL BACKTEST REPORT [V1.50 - Engine Alpha (Robust Core)] 🏆
-Total Trades: 43
-Wins: 35 | Losses: 8
-Win Rate: 81.40%
+🏆 INSTITUTIONAL BACKTEST REPORT [V1.52 - Engine Alpha (Hybrid Stop & 1.5R)] 🏆
+Total Trades: 58
+Wins: 34 | Losses: 24
+Win Rate: 58.62%
 Net Units (R): +27.00 R
 
 📅 MONTHLY BREAKDOWN:
-- 2026-05 | Trades: 32 | Wins: 26 | Losses: 6 | WR: 81.25% | Net Units: +20.00 R
-- 2026-06 | Trades: 11 | Wins: 9 | Losses: 2 | WR: 81.82% | Net Units: +7.00 R
+- 2026-05 | Trades: 36 | Wins: 23 | Losses: 13 | WR: 63.89% | Net Units: +21.50 R
+- 2026-06 | Trades: 22 | Wins: 11 | Losses: 11 | WR: 50.00% | Net Units: +5.50 R
 
 📝 DETAILED TRADE JOURNAL:
-05-11 Mon Hr:10 | SHT | L | VW:-2.9 | Vx:1.3 | PB:3.6 | Prc:0.9 | RN:8.2 | ADX:28 | EG:4.6 | hRSI:44 | ATR:5.1 | B:3 | SL:9.1 | SVR:2.8 | MAE:9.1 | MFE:6.0 | AH_Dst:-7.1 | AL_Dst:-12.6 | LWk:10% | UWk:28%
-05-11 Mon Hr:12 | LNG | W | VW:15.2 | Vx:1.1 | PB:5.1 | Prc:4.4 | RN:11.4 | ADX:19 | EG:8.3 | hRSI:51 | ATR:4.7 | B:16 | SL:8.5 | SVR:3.4 | MAE:7.4 | MFE:10.4 | AH_Dst:12.5 | AL_Dst:-32.2 | LWk:6% | UWk:3%
-05-12 Tue Hr:13 | SHT | W | VW:-21.6 | Vx:0.8 | PB:3.9 | Prc:3.6 | RN:21.1 | ADX:20 | EG:52.0 | hRSI:48 | ATR:5.5 | B:1 | SL:10.0 | SVR:4.8 | MAE:7.0 | MFE:11.0 | AH_Dst:-57.8 | AL_Dst:15.4 | LWk:1% | UWk:11%
-05-12 Tue Hr:14 | SHT | W | VW:-23.7 | Vx:0.9 | PB:5.4 | Prc:2.5 | RN:22.2 | ADX:19 | EG:55.4 | hRSI:46 | ATR:6.1 | B:15 | SL:11.1 | SVR:4.2 | MAE:6.4 | MFE:12.0 | AH_Dst:-64.5 | AL_Dst:22.1 | LWk:16% | UWk:5%
-05-13 Wed Hr:09 | SHT | W | VW:-16.1 | Vx:1.6 | PB:3.2 | Prc:4.5 | RN:18.0 | ADX:18 | EG:27.3 | hRSI:41 | ATR:4.3 | B:12 | SL:7.8 | SVR:3.5 | MAE:7.0 | MFE:9.9 | AH_Dst:-33.2 | AL_Dst:5.3 | LWk:29% | UWk:9%
-05-13 Wed Hr:10 | SHT | W | VW:-19.3 | Vx:1.0 | PB:3.7 | Prc:3.5 | RN:9.1 | ADX:17 | EG:36.6 | hRSI:41 | ATR:5.7 | B:29 | SL:10.3 | SVR:3.6 | MAE:7.9 | MFE:12.9 | AH_Dst:-42.1 | AL_Dst:14.2 | LWk:12% | UWk:0%
-05-14 Thu Hr:07 | SHT | W | VW:-4.1 | Vx:1.3 | PB:2.8 | Prc:2.8 | RN:21.1 | ADX:21 | EG:11.9 | hRSI:56 | ATR:3.1 | B:3 | SL:7.5 | SVR:4.3 | MAE:3.1 | MFE:8.7 | AH_Dst:-11.5 | AL_Dst:-6.5 | LWk:6% | UWk:0%
-05-14 Thu Hr:12 | SHT | W | VW:-11.3 | Vx:0.7 | PB:2.3 | Prc:2.3 | RN:8.3 | ADX:12 | EG:17.5 | hRSI:48 | ATR:4.2 | B:16 | SL:7.6 | SVR:3.7 | MAE:6.7 | MFE:9.2 | AH_Dst:-24.3 | AL_Dst:6.3 | LWk:3% | UWk:23%
-05-15 Fri Hr:08 | SHT | W | VW:-8.9 | Vx:1.0 | PB:2.7 | Prc:5.5 | RN:8.2 | ADX:14 | EG:97.8 | hRSI:48 | ATR:5.1 | B:7 | SL:9.2 | SVR:3.2 | MAE:4.0 | MFE:9.9 | AH_Dst:-17.9 | AL_Dst:-23.2 | LWk:32% | UWk:14%
-05-15 Fri Hr:11 | SHT | W | VW:-0.9 | Vx:0.9 | PB:3.4 | Prc:6.2 | RN:12.8 | ADX:31 | EG:80.3 | hRSI:56 | ATR:4.8 | B:10 | SL:8.6 | SVR:5.5 | MAE:3.9 | MFE:9.5 | AH_Dst:-13.3 | AL_Dst:-27.8 | LWk:12% | UWk:30%
-05-15 Fri Hr:13 | SHT | W | VW:-9.4 | Vx:1.5 | PB:4.0 | Prc:1.2 | RN:2.9 | ADX:14 | EG:80.8 | hRSI:49 | ATR:4.7 | B:3 | SL:8.4 | SVR:4.9 | MAE:4.6 | MFE:12.5 | AH_Dst:-23.2 | AL_Dst:-17.9 | LWk:26% | UWk:2%
-05-15 Fri Hr:14 | SHT | W | VW:-12.6 | Vx:0.8 | PB:3.3 | Prc:2.3 | RN:2.4 | ADX:19 | EG:82.7 | hRSI:47 | ATR:5.5 | B:9 | SL:9.9 | SVR:4.3 | MAE:6.0 | MFE:12.6 | AH_Dst:-28.5 | AL_Dst:-12.6 | LWk:6% | UWk:31%
-05-19 Tue Hr:08 | SHT | W | VW:-15.7 | Vx:1.5 | PB:3.6 | Prc:3.0 | RN:2.7 | ADX:19 | EG:5.4 | hRSI:43 | ATR:4.1 | B:17 | SL:7.5 | SVR:4.2 | MAE:5.0 | MFE:8.3 | AH_Dst:-19.9 | AL_Dst:-0.3 | LWk:19% | UWk:5%
-05-19 Tue Hr:11 | LNG | W | VW:0.3 | Vx:0.8 | PB:3.2 | Prc:1.0 | RN:9.2 | ADX:22 | EG:5.4 | hRSI:51 | ATR:4.4 | B:23 | SL:8.0 | SVR:4.3 | MAE:7.1 | MFE:10.4 | AH_Dst:-8.0 | AL_Dst:-12.2 | LWk:10% | UWk:6%
-05-19 Tue Hr:14 | SHT | W | VW:-12.7 | Vx:1.1 | PB:2.2 | Prc:3.4 | RN:5.4 | ADX:21 | EG:2.8 | hRSI:49 | ATR:5.0 | B:6 | SL:8.9 | SVR:4.0 | MAE:8.0 | MFE:9.0 | AH_Dst:-22.6 | AL_Dst:2.4 | LWk:1% | UWk:9%
-05-20 Wed Hr:07 | SHT | W | VW:-3.1 | Vx:1.7 | PB:2.1 | Prc:4.2 | RN:10.6 | ADX:13 | EG:4.7 | hRSI:53 | ATR:4.3 | B:11 | SL:7.7 | SVR:3.8 | MAE:4.9 | MFE:7.7 | AH_Dst:-17.1 | AL_Dst:-13.4 | LWk:17% | UWk:17%
-05-20 Wed Hr:08 | SHT | W | VW:-9.0 | Vx:1.2 | PB:3.9 | Prc:1.8 | RN:16.7 | ADX:14 | EG:5.8 | hRSI:44 | ATR:4.1 | B:4 | SL:7.5 | SVR:3.3 | MAE:6.5 | MFE:8.3 | AH_Dst:-23.2 | AL_Dst:-7.3 | LWk:20% | UWk:5%
-05-21 Thu Hr:07 | LNG | W | VW:0.6 | Vx:0.8 | PB:2.1 | Prc:5.0 | RN:18.6 | ADX:24 | EG:13.6 | hRSI:43 | ATR:4.0 | B:5 | SL:7.5 | SVR:7.4 | MAE:4.2 | MFE:7.5 | AH_Dst:-8.4 | AL_Dst:-5.8 | LWk:0% | UWk:24%
-05-21 Thu Hr:09 | LNG | L | VW:6.3 | Vx:0.8 | PB:4.6 | Prc:1.5 | RN:11.1 | ADX:27 | EG:17.6 | hRSI:52 | ATR:5.5 | B:27 | SL:9.9 | SVR:3.9 | MAE:14.7 | MFE:7.5 | AH_Dst:-0.9 | AL_Dst:-13.3 | LWk:20% | UWk:28%
-05-21 Thu Hr:15 | SHT | W | VW:-19.5 | Vx:1.2 | PB:5.7 | Prc:3.2 | RN:6.3 | ADX:16 | EG:7.5 | hRSI:46 | ATR:5.7 | B:2 | SL:10.2 | SVR:2.4 | MAE:6.0 | MFE:10.6 | AH_Dst:-33.5 | AL_Dst:19.3 | LWk:0% | UWk:17%
-05-22 Fri Hr:07 | LNG | W | VW:-0.9 | Vx:0.9 | PB:2.1 | Prc:6.4 | RN:24.8 | ADX:29 | EG:1.8 | hRSI:33 | ATR:3.3 | B:17 | SL:7.5 | SVR:3.7 | MAE:4.0 | MFE:13.0 | AH_Dst:-7.1 | AL_Dst:-8.3 | LWk:6% | UWk:3%
-05-22 Fri Hr:09 | SHT | L | VW:-6.7 | Vx:0.7 | PB:2.1 | Prc:0.5 | RN:19.8 | ADX:24 | EG:4.1 | hRSI:49 | ATR:3.3 | B:12 | SL:7.5 | SVR:5.3 | MAE:7.8 | MFE:3.2 | AH_Dst:-12.5 | AL_Dst:-2.9 | LWk:18% | UWk:0%
-05-22 Fri Hr:11 | SHT | L | VW:-4.0 | Vx:1.1 | PB:1.9 | Prc:2.1 | RN:21.9 | ADX:21 | EG:1.1 | hRSI:47 | ATR:2.3 | B:7 | SL:7.5 | SVR:2.5 | MAE:7.6 | MFE:5.2 | AH_Dst:-10.4 | AL_Dst:-5.0 | LWk:13% | UWk:4%
-05-22 Fri Hr:12 | LNG | W | VW:-0.5 | Vx:0.6 | PB:1.5 | Prc:2.4 | RN:24.9 | ADX:22 | EG:0.7 | hRSI:48 | ATR:3.5 | B:5 | SL:7.5 | SVR:2.7 | MAE:3.4 | MFE:8.0 | AH_Dst:-7.2 | AL_Dst:-8.2 | LWk:39% | UWk:6%
-05-22 Fri Hr:15 | LNG | W | VW:9.1 | Vx:0.9 | PB:5.4 | Prc:1.8 | RN:12.6 | ADX:16 | EG:7.1 | hRSI:54 | ATR:5.6 | B:40 | SL:10.0 | SVR:3.9 | MAE:7.2 | MFE:10.6 | AH_Dst:5.1 | AL_Dst:-20.5 | LWk:29% | UWk:6%
-05-25 Mon Hr:07 | LNG | W | VW:4.0 | Vx:1.1 | PB:1.5 | Prc:2.9 | RN:15.5 | ADX:20 | EG:35.0 | hRSI:48 | ATR:2.8 | B:20 | SL:7.5 | SVR:5.4 | MAE:6.0 | MFE:9.1 | AH_Dst:-4.2 | AL_Dst:-10.2 | LWk:5% | UWk:2%
-05-26 Tue Hr:11 | SHT | W | VW:-8.1 | Vx:1.3 | PB:3.9 | Prc:1.1 | RN:24.1 | ADX:21 | EG:5.8 | hRSI:50 | ATR:3.1 | B:9 | SL:7.5 | SVR:5.2 | MAE:4.2 | MFE:8.1 | AH_Dst:-14.6 | AL_Dst:-0.5 | LWk:7% | UWk:9%
-05-27 Wed Hr:07 | SHT | W | VW:-2.0 | Vx:0.7 | PB:1.4 | Prc:2.3 | RN:0.1 | ADX:23 | EG:10.7 | hRSI:50 | ATR:2.5 | B:12 | SL:7.5 | SVR:5.4 | MAE:1.7 | MFE:8.2 | AH_Dst:-6.7 | AL_Dst:-5.8 | LWk:26% | UWk:4%
-05-27 Wed Hr:12 | SHT | L | VW:-8.0 | Vx:0.9 | PB:3.2 | Prc:5.7 | RN:10.3 | ADX:29 | EG:16.1 | hRSI:54 | ATR:4.3 | B:1 | SL:7.8 | SVR:6.9 | MAE:8.2 | MFE:1.1 | AH_Dst:-17.1 | AL_Dst:4.6 | LWk:15% | UWk:4%
-05-27 Wed Hr:13 | SHT | L | VW:-5.5 | Vx:1.1 | PB:5.1 | Prc:4.2 | RN:8.2 | ADX:15 | EG:14.3 | hRSI:49 | ATR:4.1 | B:6 | SL:7.5 | SVR:2.1 | MAE:10.3 | MFE:0.8 | AH_Dst:-15.0 | AL_Dst:2.5 | LWk:24% | UWk:14%
-05-29 Fri Hr:07 | SHT | W | VW:-7.7 | Vx:0.8 | PB:3.5 | Prc:1.7 | RN:17.6 | ADX:23 | EG:4.4 | hRSI:54 | ATR:3.3 | B:4 | SL:7.5 | SVR:3.3 | MAE:4.6 | MFE:8.4 | AH_Dst:-12.1 | AL_Dst:-0.5 | LWk:16% | UWk:22%
-05-29 Fri Hr:14 | LNG | W | VW:12.6 | Vx:1.3 | PB:6.4 | Prc:5.1 | RN:6.2 | ADX:22 | EG:3.6 | hRSI:62 | ATR:4.8 | B:1 | SL:8.7 | SVR:2.6 | MAE:6.0 | MFE:11.1 | AH_Dst:-0.7 | AL_Dst:-11.9 | LWk:25% | UWk:21%
-06-03 Wed Hr:11 | SHT | W | VW:-4.8 | Vx:0.6 | PB:1.7 | Prc:3.5 | RN:1.2 | ADX:20 | EG:7.5 | hRSI:52 | ATR:2.3 | B:15 | SL:7.5 | SVR:4.0 | MAE:7.0 | MFE:7.8 | AH_Dst:-15.1 | AL_Dst:-11.9 | LWk:10% | UWk:3%
-06-08 Mon Hr:07 | SHT | L | VW:-6.3 | Vx:1.4 | PB:4.4 | Prc:3.3 | RN:22.4 | ADX:22 | EG:53.1 | hRSI:52 | ATR:4.2 | B:4 | SL:7.6 | SVR:5.7 | MAE:8.1 | MFE:1.1 | AH_Dst:-21.3 | AL_Dst:-7.6 | LWk:2% | UWk:5%
-06-08 Mon Hr:08 | SHT | L | VW:-6.8 | Vx:1.0 | PB:3.6 | Prc:2.3 | RN:23.1 | ADX:18 | EG:52.7 | hRSI:46 | ATR:4.2 | B:4 | SL:7.6 | SVR:5.1 | MAE:8.7 | MFE:1.6 | AH_Dst:-22.0 | AL_Dst:-6.9 | LWk:26% | UWk:0%
-06-08 Mon Hr:08 | SHT | W | VW:-4.1 | Vx:0.8 | PB:3.2 | Prc:2.8 | RN:20.5 | ADX:15 | EG:52.6 | hRSI:51 | ATR:4.3 | B:4 | SL:7.7 | SVR:3.5 | MAE:3.5 | MFE:7.8 | AH_Dst:-19.4 | AL_Dst:-9.5 | LWk:31% | UWk:10%
-06-10 Wed Hr:09 | LNG | W | VW:8.2 | Vx:1.3 | PB:1.3 | Prc:3.9 | RN:9.4 | ADX:24 | EG:11.1 | hRSI:51 | ATR:3.2 | B:5 | SL:7.5 | SVR:3.7 | MAE:4.0 | MFE:8.9 | AH_Dst:-6.5 | AL_Dst:-10.9 | LWk:2% | UWk:17%
-06-10 Wed Hr:12 | LNG | W | VW:6.3 | Vx:0.6 | PB:2.0 | Prc:4.9 | RN:9.7 | ADX:25 | EG:9.0 | hRSI:46 | ATR:3.7 | B:2 | SL:7.5 | SVR:3.6 | MAE:4.8 | MFE:9.1 | AH_Dst:-6.8 | AL_Dst:-10.6 | LWk:0% | UWk:4%
-06-11 Thu Hr:08 | SHT | W | VW:1.9 | Vx:1.0 | PB:3.0 | Prc:1.6 | RN:24.8 | ADX:22 | EG:2.7 | hRSI:48 | ATR:3.0 | B:10 | SL:7.5 | SVR:5.6 | MAE:3.3 | MFE:9.8 | AH_Dst:-11.5 | AL_Dst:-0.1 | LWk:8% | UWk:0%
-06-11 Thu Hr:13 | SHT | W | VW:-14.6 | Vx:1.2 | PB:5.2 | Prc:3.3 | RN:4.2 | ADX:18 | EG:16.7 | hRSI:46 | ATR:5.9 | B:5 | SL:10.7 | SVR:4.8 | MAE:5.4 | MFE:15.0 | AH_Dst:-32.5 | AL_Dst:20.9 | LWk:13% | UWk:21%
-06-11 Thu Hr:13 | SHT | W | VW:-13.2 | Vx:0.7 | PB:4.3 | Prc:3.3 | RN:3.2 | ADX:17 | EG:19.6 | hRSI:41 | ATR:5.9 | B:3 | SL:10.6 | SVR:3.4 | MAE:3.8 | MFE:12.0 | AH_Dst:-33.5 | AL_Dst:21.9 | LWk:10% | UWk:31%
-06-12 Fri Hr:08 | LNG | W | VW:3.5 | Vx:1.4 | PB:3.3 | Prc:1.5 | RN:8.6 | ADX:26 | EG:13.1 | hRSI:48 | ATR:4.8 | B:2 | SL:8.7 | SVR:5.6 | MAE:10.1 | MFE:10.4 | AH_Dst:-9.3 | AL_Dst:-14.1 | LWk:23% | UWk:0%
-06-18 Thu Hr:07 | SHT | W | VW:-1.3 | Vx:1.7 | PB:2.6 | Prc:2.8 | RN:9.1 | ADX:23 | EG:57.4 | hRSI:49 | ATR:3.9 | B:2 | SL:7.5 | SVR:5.1 | MAE:7.6 | MFE:9.6 | AH_Dst:-15.6 | AL_Dst:-10.9 | LWk:10% | UWk:50%
+05-11 Mon Hr:10 | SHT | L | VW:-2.9 | Vx:1.3 | PB:3.6 | Prc:0.9 | RN:8.2 | ADX:28 | EG:4.6 | hRSI:44 | ATR:5.1 | B:4 | SL:10.0 | SVR:2.8 | MAE:18.4 | MFE:6.0 | AH_Dst:-7.1 | AL_Dst:-12.6 | LWk:10% | UWk:28%
+05-11 Mon Hr:12 | LNG | W | VW:15.2 | Vx:1.1 | PB:5.1 | Prc:4.4 | RN:11.4 | ADX:19 | EG:8.3 | hRSI:51 | ATR:4.7 | B:50 | SL:12.7 | SVR:3.4 | MAE:7.4 | MFE:20.6 | AH_Dst:12.5 | AL_Dst:-32.2 | LWk:6% | UWk:3%
+05-12 Tue Hr:13 | SHT | W | VW:-21.6 | Vx:0.8 | PB:3.9 | Prc:3.6 | RN:21.1 | ADX:20 | EG:52.0 | hRSI:48 | ATR:5.5 | B:12 | SL:8.8 | SVR:4.8 | MAE:7.0 | MFE:18.6 | AH_Dst:-57.8 | AL_Dst:15.4 | LWk:1% | UWk:11%
+05-12 Tue Hr:14 | SHT | W | VW:-23.7 | Vx:0.9 | PB:5.4 | Prc:2.5 | RN:22.2 | ADX:19 | EG:55.4 | hRSI:46 | ATR:6.1 | B:15 | SL:7.5 | SVR:4.2 | MAE:6.4 | MFE:12.0 | AH_Dst:-64.5 | AL_Dst:22.1 | LWk:16% | UWk:5%
+05-13 Wed Hr:08 | SHT | W | VW:-6.6 | Vx:0.5 | PB:1.3 | Prc:1.9 | RN:21.8 | ADX:18 | EG:25.9 | hRSI:49 | ATR:3.4 | B:8 | SL:5.7 | SVR:3.7 | MAE:5.3 | MFE:13.1 | AH_Dst:-23.0 | AL_Dst:-4.9 | LWk:14% | UWk:16%
+05-13 Wed Hr:09 | SHT | W | VW:-16.1 | Vx:1.6 | PB:3.2 | Prc:4.5 | RN:18.0 | ADX:18 | EG:27.3 | hRSI:41 | ATR:4.3 | B:69 | SL:16.5 | SVR:3.5 | MAE:7.0 | MFE:25.9 | AH_Dst:-33.2 | AL_Dst:5.3 | LWk:29% | UWk:9%
+05-14 Thu Hr:07 | SHT | W | VW:-4.1 | Vx:1.3 | PB:2.8 | Prc:2.8 | RN:21.1 | ADX:21 | EG:11.9 | hRSI:56 | ATR:3.1 | B:16 | SL:6.1 | SVR:4.3 | MAE:3.1 | MFE:16.4 | AH_Dst:-11.5 | AL_Dst:-6.5 | LWk:6% | UWk:0%
+05-14 Thu Hr:08 | SHT | W | VW:-9.5 | Vx:0.7 | PB:3.7 | Prc:2.5 | RN:13.2 | ADX:15 | EG:16.6 | hRSI:47 | ATR:3.3 | B:66 | SL:7.7 | SVR:5.0 | MAE:7.5 | MFE:17.5 | AH_Dst:-19.4 | AL_Dst:1.4 | LWk:3% | UWk:0%
+05-14 Thu Hr:12 | SHT | W | VW:-11.3 | Vx:0.7 | PB:2.3 | Prc:2.3 | RN:8.3 | ADX:12 | EG:17.5 | hRSI:48 | ATR:4.2 | B:22 | SL:8.5 | SVR:3.7 | MAE:6.7 | MFE:14.4 | AH_Dst:-24.3 | AL_Dst:6.3 | LWk:3% | UWk:23%
+05-15 Fri Hr:08 | SHT | W | VW:-8.9 | Vx:1.0 | PB:2.7 | Prc:5.5 | RN:8.2 | ADX:14 | EG:97.8 | hRSI:48 | ATR:5.1 | B:16 | SL:9.3 | SVR:3.2 | MAE:4.0 | MFE:14.5 | AH_Dst:-17.9 | AL_Dst:-23.2 | LWk:32% | UWk:14%
+05-15 Fri Hr:11 | SHT | W | VW:-0.9 | Vx:0.9 | PB:3.4 | Prc:6.2 | RN:12.8 | ADX:31 | EG:80.3 | hRSI:56 | ATR:4.8 | B:17 | SL:9.6 | SVR:5.5 | MAE:3.9 | MFE:14.6 | AH_Dst:-13.3 | AL_Dst:-27.8 | LWk:12% | UWk:30%
+05-15 Fri Hr:13 | SHT | W | VW:-9.4 | Vx:1.5 | PB:4.0 | Prc:1.2 | RN:2.9 | ADX:14 | EG:80.8 | hRSI:49 | ATR:4.7 | B:3 | SL:7.0 | SVR:4.9 | MAE:4.6 | MFE:12.5 | AH_Dst:-23.2 | AL_Dst:-17.9 | LWk:26% | UWk:2%
+05-15 Fri Hr:14 | SHT | W | VW:-12.6 | Vx:0.8 | PB:3.3 | Prc:2.3 | RN:2.4 | ADX:19 | EG:82.7 | hRSI:47 | ATR:5.5 | B:9 | SL:7.9 | SVR:4.3 | MAE:6.0 | MFE:12.6 | AH_Dst:-28.5 | AL_Dst:-12.6 | LWk:6% | UWk:31%
+05-19 Tue Hr:08 | SHT | L | VW:-15.7 | Vx:1.5 | PB:3.6 | Prc:3.0 | RN:2.7 | ADX:19 | EG:5.4 | hRSI:43 | ATR:4.1 | B:39 | SL:9.9 | SVR:4.2 | MAE:10.6 | MFE:10.2 | AH_Dst:-19.9 | AL_Dst:-0.3 | LWk:19% | UWk:5%
+05-19 Tue Hr:11 | LNG | L | VW:0.3 | Vx:0.8 | PB:3.2 | Prc:1.0 | RN:9.2 | ADX:22 | EG:5.4 | hRSI:51 | ATR:4.4 | B:36 | SL:7.8 | SVR:4.3 | MAE:12.6 | MFE:10.4 | AH_Dst:-8.0 | AL_Dst:-12.2 | LWk:10% | UWk:6%
+05-19 Tue Hr:14 | SHT | L | VW:-12.7 | Vx:1.1 | PB:2.2 | Prc:3.4 | RN:5.4 | ADX:21 | EG:2.8 | hRSI:49 | ATR:5.0 | B:61 | SL:11.3 | SVR:4.0 | MAE:12.9 | MFE:16.1 | AH_Dst:-22.6 | AL_Dst:2.4 | LWk:1% | UWk:9%
+05-20 Wed Hr:07 | SHT | W | VW:-3.1 | Vx:1.7 | PB:2.1 | Prc:4.2 | RN:10.6 | ADX:13 | EG:4.7 | hRSI:53 | ATR:4.3 | B:15 | SL:8.1 | SVR:3.8 | MAE:4.9 | MFE:14.4 | AH_Dst:-17.1 | AL_Dst:-13.4 | LWk:17% | UWk:17%
+05-20 Wed Hr:08 | SHT | L | VW:-8.1 | Vx:0.9 | PB:3.3 | Prc:1.3 | RN:16.6 | ADX:15 | EG:8.5 | hRSI:48 | ATR:4.0 | B:5 | SL:6.8 | SVR:3.5 | MAE:9.2 | MFE:1.9 | AH_Dst:-23.1 | AL_Dst:-7.4 | LWk:2% | UWk:56%
+05-20 Wed Hr:09 | SHT | L | VW:-5.8 | Vx:0.9 | PB:3.5 | Prc:4.2 | RN:14.4 | ADX:13 | EG:8.4 | hRSI:50 | ATR:3.7 | B:20 | SL:7.4 | SVR:3.6 | MAE:7.5 | MFE:5.3 | AH_Dst:-20.9 | AL_Dst:-9.6 | LWk:3% | UWk:3%
+05-21 Thu Hr:07 | LNG | L | VW:5.3 | Vx:1.5 | PB:3.4 | Prc:2.4 | RN:12.0 | ADX:14 | EG:17.1 | hRSI:53 | ATR:3.1 | B:5 | SL:9.4 | SVR:3.3 | MAE:14.7 | MFE:1.2 | AH_Dst:-1.8 | AL_Dst:-12.4 | LWk:11% | UWk:21%
+05-21 Thu Hr:07 | LNG | W | VW:0.6 | Vx:0.8 | PB:2.1 | Prc:5.0 | RN:18.6 | ADX:24 | EG:13.6 | hRSI:43 | ATR:4.0 | B:6 | SL:8.5 | SVR:7.4 | MAE:4.2 | MFE:16.3 | AH_Dst:-8.4 | AL_Dst:-5.8 | LWk:0% | UWk:24%
+05-21 Thu Hr:09 | LNG | L | VW:6.3 | Vx:0.8 | PB:4.6 | Prc:1.5 | RN:11.1 | ADX:27 | EG:17.6 | hRSI:52 | ATR:5.5 | B:27 | SL:7.5 | SVR:3.9 | MAE:14.7 | MFE:7.5 | AH_Dst:-0.9 | AL_Dst:-13.3 | LWk:20% | UWk:28%
+05-21 Thu Hr:11 | LNG | L | VW:4.4 | Vx:0.6 | PB:3.2 | Prc:0.9 | RN:13.0 | ADX:19 | EG:15.1 | hRSI:49 | ATR:4.5 | B:7 | SL:5.8 | SVR:5.2 | MAE:9.0 | MFE:2.2 | AH_Dst:-2.8 | AL_Dst:-11.4 | LWk:18% | UWk:8%
+05-21 Thu Hr:15 | SHT | L | VW:-19.5 | Vx:1.2 | PB:5.7 | Prc:3.2 | RN:6.3 | ADX:16 | EG:7.5 | hRSI:46 | ATR:5.7 | B:43 | SL:7.7 | SVR:2.4 | MAE:13.9 | MFE:10.7 | AH_Dst:-33.5 | AL_Dst:19.3 | LWk:0% | UWk:17%
+05-22 Fri Hr:07 | LNG | W | VW:-0.9 | Vx:0.9 | PB:2.1 | Prc:6.4 | RN:24.8 | ADX:29 | EG:1.8 | hRSI:33 | ATR:3.3 | B:112 | SL:8.9 | SVR:3.7 | MAE:8.6 | MFE:15.0 | AH_Dst:-7.1 | AL_Dst:-8.3 | LWk:6% | UWk:3%
+05-22 Fri Hr:15 | LNG | W | VW:9.1 | Vx:0.9 | PB:5.4 | Prc:1.8 | RN:12.6 | ADX:16 | EG:7.1 | hRSI:54 | ATR:5.6 | B:49 | SL:9.4 | SVR:3.9 | MAE:7.2 | MFE:16.1 | AH_Dst:5.1 | AL_Dst:-20.5 | LWk:29% | UWk:6%
+05-25 Mon Hr:07 | LNG | W | VW:4.0 | Vx:1.1 | PB:1.5 | Prc:2.9 | RN:15.5 | ADX:20 | EG:35.0 | hRSI:48 | ATR:2.8 | B:71 | SL:8.0 | SVR:5.4 | MAE:6.0 | MFE:12.2 | AH_Dst:-4.2 | AL_Dst:-10.2 | LWk:5% | UWk:2%
+05-26 Tue Hr:08 | SHT | L | VW:-10.0 | Vx:0.8 | PB:2.1 | Prc:1.4 | RN:22.7 | ADX:16 | EG:1.0 | hRSI:39 | ATR:3.2 | B:3 | SL:5.5 | SVR:3.0 | MAE:6.5 | MFE:0.7 | AH_Dst:-16.0 | AL_Dst:0.9 | LWk:19% | UWk:10%
+05-26 Tue Hr:11 | SHT | W | VW:-8.1 | Vx:1.3 | PB:3.9 | Prc:1.1 | RN:24.1 | ADX:21 | EG:5.8 | hRSI:50 | ATR:3.1 | B:44 | SL:9.2 | SVR:5.2 | MAE:4.2 | MFE:17.5 | AH_Dst:-14.6 | AL_Dst:-0.5 | LWk:7% | UWk:9%
+05-27 Wed Hr:07 | SHT | W | VW:-2.0 | Vx:0.7 | PB:1.4 | Prc:2.3 | RN:0.1 | ADX:23 | EG:10.7 | hRSI:50 | ATR:2.5 | B:16 | SL:5.5 | SVR:5.4 | MAE:1.7 | MFE:8.9 | AH_Dst:-6.7 | AL_Dst:-5.8 | LWk:26% | UWk:4%
+05-27 Wed Hr:08 | SHT | W | VW:-7.1 | Vx:1.1 | PB:3.8 | Prc:3.2 | RN:5.9 | ADX:17 | EG:13.0 | hRSI:46 | ATR:3.2 | B:72 | SL:8.8 | SVR:2.5 | MAE:8.0 | MFE:13.8 | AH_Dst:-12.7 | AL_Dst:0.2 | LWk:5% | UWk:6%
+05-27 Wed Hr:12 | SHT | L | VW:-8.0 | Vx:0.9 | PB:3.2 | Prc:5.7 | RN:10.3 | ADX:29 | EG:16.1 | hRSI:54 | ATR:4.3 | B:25 | SL:9.6 | SVR:6.9 | MAE:12.4 | MFE:1.1 | AH_Dst:-17.1 | AL_Dst:4.6 | LWk:15% | UWk:4%
+05-28 Thu Hr:08 | SHT | L | VW:-1.5 | Vx:0.8 | PB:3.5 | Prc:2.7 | RN:2.2 | ADX:17 | EG:33.5 | hRSI:51 | ATR:3.3 | B:9 | SL:5.9 | SVR:2.5 | MAE:6.0 | MFE:2.9 | AH_Dst:-10.0 | AL_Dst:-30.4 | LWk:8% | UWk:15%
+05-28 Thu Hr:09 | SHT | W | VW:0.1 | Vx:0.5 | PB:1.9 | Prc:3.3 | RN:0.3 | ADX:16 | EG:30.4 | hRSI:54 | ATR:2.9 | B:10 | SL:6.1 | SVR:4.4 | MAE:3.1 | MFE:9.9 | AH_Dst:-8.1 | AL_Dst:-32.3 | LWk:3% | UWk:29%
+05-29 Fri Hr:07 | SHT | W | VW:-7.7 | Vx:0.8 | PB:3.5 | Prc:1.7 | RN:17.6 | ADX:23 | EG:4.4 | hRSI:54 | ATR:3.3 | B:8 | SL:8.5 | SVR:3.3 | MAE:4.6 | MFE:13.1 | AH_Dst:-12.1 | AL_Dst:-0.5 | LWk:16% | UWk:22%
+05-29 Fri Hr:14 | LNG | W | VW:12.6 | Vx:1.3 | PB:6.4 | Prc:5.1 | RN:6.2 | ADX:22 | EG:3.6 | hRSI:62 | ATR:4.8 | B:2 | SL:14.5 | SVR:2.6 | MAE:6.0 | MFE:22.6 | AH_Dst:-0.7 | AL_Dst:-11.9 | LWk:25% | UWk:21%
+06-01 Mon Hr:10 | LNG | L | VW:5.7 | Vx:1.1 | PB:2.6 | Prc:4.0 | RN:14.7 | ADX:31 | EG:15.3 | hRSI:46 | ATR:2.8 | B:46 | SL:7.5 | SVR:2.6 | MAE:8.1 | MFE:4.0 | AH_Dst:-11.4 | AL_Dst:-15.3 | LWk:6% | UWk:0%
+06-02 Tue Hr:09 | LNG | L | VW:5.3 | Vx:1.0 | PB:2.0 | Prc:1.2 | RN:20.3 | ADX:17 | EG:13.6 | hRSI:52 | ATR:2.5 | B:81 | SL:5.5 | SVR:3.4 | MAE:8.0 | MFE:7.3 | AH_Dst:-11.3 | AL_Dst:-13.2 | LWk:13% | UWk:13%
+06-03 Wed Hr:07 | SHT | L | VW:-8.3 | Vx:0.8 | PB:2.4 | Prc:1.5 | RN:1.9 | ADX:20 | EG:8.0 | hRSI:43 | ATR:3.1 | B:4 | SL:6.0 | SVR:3.9 | MAE:10.2 | MFE:5.4 | AH_Dst:-15.8 | AL_Dst:-11.2 | LWk:3% | UWk:37%
+06-03 Wed Hr:08 | SHT | W | VW:-4.0 | Vx:0.5 | PB:1.6 | Prc:4.5 | RN:2.0 | ADX:20 | EG:6.3 | hRSI:50 | ATR:3.7 | B:10 | SL:6.6 | SVR:5.1 | MAE:2.9 | MFE:11.0 | AH_Dst:-11.9 | AL_Dst:-15.1 | LWk:26% | UWk:29%
+06-03 Wed Hr:09 | SHT | L | VW:-8.5 | Vx:1.1 | PB:4.3 | Prc:1.5 | RN:4.0 | ADX:13 | EG:9.3 | hRSI:45 | ATR:3.3 | B:12 | SL:6.0 | SVR:3.5 | MAE:10.5 | MFE:2.1 | AH_Dst:-17.9 | AL_Dst:-9.1 | LWk:2% | UWk:0%
+06-03 Wed Hr:10 | SHT | W | VW:-6.3 | Vx:0.8 | PB:3.8 | Prc:5.3 | RN:2.3 | ADX:14 | EG:8.8 | hRSI:51 | ATR:3.6 | B:45 | SL:8.2 | SVR:3.8 | MAE:8.1 | MFE:14.7 | AH_Dst:-16.2 | AL_Dst:-10.8 | LWk:34% | UWk:26%
+06-08 Mon Hr:07 | SHT | W | VW:-6.3 | Vx:1.4 | PB:4.4 | Prc:3.3 | RN:22.4 | ADX:22 | EG:53.1 | hRSI:52 | ATR:4.2 | B:30 | SL:10.8 | SVR:5.7 | MAE:8.1 | MFE:17.3 | AH_Dst:-21.3 | AL_Dst:-7.6 | LWk:2% | UWk:5%
+06-10 Wed Hr:07 | LNG | L | VW:9.4 | Vx:0.8 | PB:1.7 | Prc:1.8 | RN:9.3 | ADX:14 | EG:13.3 | hRSI:54 | ATR:3.0 | B:5 | SL:5.5 | SVR:3.6 | MAE:6.6 | MFE:0.9 | AH_Dst:-6.4 | AL_Dst:-11.0 | LWk:24% | UWk:26%
+06-10 Wed Hr:09 | LNG | L | VW:8.2 | Vx:1.3 | PB:1.3 | Prc:3.9 | RN:9.4 | ADX:24 | EG:11.1 | hRSI:51 | ATR:3.2 | B:31 | SL:8.1 | SVR:3.7 | MAE:13.2 | MFE:9.1 | AH_Dst:-6.5 | AL_Dst:-10.9 | LWk:2% | UWk:17%
+06-10 Wed Hr:12 | LNG | W | VW:6.3 | Vx:0.6 | PB:2.0 | Prc:4.9 | RN:9.7 | ADX:25 | EG:9.0 | hRSI:46 | ATR:3.7 | B:6 | SL:9.5 | SVR:3.6 | MAE:4.8 | MFE:16.1 | AH_Dst:-6.8 | AL_Dst:-10.6 | LWk:0% | UWk:4%
+06-11 Thu Hr:08 | SHT | W | VW:1.9 | Vx:1.0 | PB:3.0 | Prc:1.6 | RN:24.8 | ADX:22 | EG:2.7 | hRSI:48 | ATR:3.0 | B:13 | SL:9.1 | SVR:5.6 | MAE:3.3 | MFE:14.2 | AH_Dst:-11.5 | AL_Dst:-0.1 | LWk:8% | UWk:0%
+06-11 Thu Hr:12 | SHT | W | VW:-9.6 | Vx:1.1 | PB:1.4 | Prc:3.0 | RN:11.5 | ADX:15 | EG:13.2 | hRSI:46 | ATR:2.7 | B:4 | SL:6.1 | SVR:2.1 | MAE:4.0 | MFE:18.3 | AH_Dst:-25.2 | AL_Dst:13.6 | LWk:29% | UWk:4%
+06-11 Thu Hr:13 | SHT | W | VW:-14.6 | Vx:1.2 | PB:5.2 | Prc:3.3 | RN:4.2 | ADX:18 | EG:16.7 | hRSI:46 | ATR:5.9 | B:5 | SL:9.4 | SVR:4.8 | MAE:5.4 | MFE:15.0 | AH_Dst:-32.5 | AL_Dst:20.9 | LWk:13% | UWk:21%
+06-11 Thu Hr:13 | SHT | W | VW:-13.2 | Vx:0.7 | PB:4.3 | Prc:3.3 | RN:3.2 | ADX:17 | EG:19.6 | hRSI:41 | ATR:5.9 | B:3 | SL:6.7 | SVR:3.4 | MAE:3.8 | MFE:12.0 | AH_Dst:-33.5 | AL_Dst:21.9 | LWk:10% | UWk:31%
+06-12 Fri Hr:08 | LNG | W | VW:3.5 | Vx:1.4 | PB:3.3 | Prc:1.5 | RN:8.6 | ADX:26 | EG:13.1 | hRSI:48 | ATR:4.8 | B:25 | SL:11.3 | SVR:5.6 | MAE:10.1 | MFE:17.2 | AH_Dst:-9.3 | AL_Dst:-14.1 | LWk:23% | UWk:0%
+06-12 Fri Hr:10 | LNG | L | VW:9.8 | Vx:1.6 | PB:3.5 | Prc:8.9 | RN:17.5 | ADX:25 | EG:24.4 | hRSI:50 | ATR:4.3 | B:32 | SL:13.8 | SVR:3.7 | MAE:15.2 | MFE:1.0 | AH_Dst:-0.4 | AL_Dst:-23.0 | LWk:10% | UWk:0%
+06-15 Mon Hr:14 | LNG | L | VW:0.5 | Vx:1.1 | PB:3.2 | Prc:1.8 | RN:12.4 | ADX:16 | EG:15.9 | hRSI:52 | ATR:3.4 | B:16 | SL:8.0 | SVR:3.0 | MAE:8.5 | MFE:6.9 | AH_Dst:-22.3 | AL_Dst:-2.7 | LWk:6% | UWk:6%
+06-16 Tue Hr:13 | LNG | L | VW:8.4 | Vx:1.7 | PB:2.0 | Prc:2.5 | RN:18.9 | ADX:16 | EG:1.3 | hRSI:51 | ATR:2.8 | B:4 | SL:6.8 | SVR:3.8 | MAE:8.1 | MFE:0.2 | AH_Dst:12.6 | AL_Dst:-28.4 | LWk:11% | UWk:5%
+06-16 Tue Hr:13 | SHT | L | VW:1.1 | Vx:1.0 | PB:2.6 | Prc:1.4 | RN:11.7 | ADX:15 | EG:1.0 | hRSI:51 | ATR:2.9 | B:8 | SL:6.0 | SVR:3.3 | MAE:6.4 | MFE:5.3 | AH_Dst:5.4 | AL_Dst:-21.2 | LWk:31% | UWk:7%
+06-16 Tue Hr:13 | SHT | L | VW:1.1 | Vx:1.3 | PB:3.1 | Prc:3.6 | RN:11.8 | ADX:15 | EG:0.1 | hRSI:51 | ATR:3.3 | B:21 | SL:7.2 | SVR:3.6 | MAE:7.9 | MFE:8.8 | AH_Dst:5.5 | AL_Dst:-21.3 | LWk:2% | UWk:17%
+06-16 Tue Hr:14 | LNG | W | VW:7.5 | Vx:1.4 | PB:4.4 | Prc:3.2 | RN:18.3 | ADX:14 | EG:1.1 | hRSI:49 | ATR:3.7 | B:22 | SL:9.5 | SVR:3.2 | MAE:3.1 | MFE:21.1 | AH_Dst:12.0 | AL_Dst:-27.8 | LWk:0% | UWk:31%
+06-18 Thu Hr:07 | SHT | W | VW:-1.3 | Vx:1.7 | PB:2.6 | Prc:2.8 | RN:9.1 | ADX:23 | EG:57.4 | hRSI:49 | ATR:3.9 | B:8 | SL:8.9 | SVR:5.1 | MAE:7.6 | MFE:14.6 | AH_Dst:-15.6 | AL_Dst:-10.9 | LWk:10% | UWk:50%
