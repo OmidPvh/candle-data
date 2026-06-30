@@ -1,13 +1,12 @@
-
 🏆 INSTITUTIONAL BACKTEST REPORT [V1.54 - Engine Alpha (The Ultimate Apex)] 🏆
-Total Trades: 50
-Wins: 34 | Losses: 16
-Win Rate: 68.00%
-Net Units (R): +35.00 R
+Total Trades: 58
+Wins: 40 | Losses: 18
+Win Rate: 68.97%
+Net Units (R): +42.00 R
 
 📅 MONTHLY BREAKDOWN:
 - 2026-05 | Trades: 33 | Wins: 23 | Losses: 10 | WR: 69.70% | Net Units: +24.50 R
-- 2026-06 | Trades: 17 | Wins: 11 | Losses: 6 | WR: 64.71% | Net Units: +10.50 R
+- 2026-06 | Trades: 25 | Wins: 17 | Losses: 8 | WR: 68.00% | Net Units: +17.50 R
 
 📝 DETAILED TRADE JOURNAL:
 05-11 Mon Hr:12 | LNG | W | VW:15.2 | Vx:1.1 | PB:5.1 | Prc:4.4 | RN:11.4 | ADX:19 | EG:8.3 | hRSI:51 | ATR:4.7 | B:50 | SL:12.7 | SVR:3.4 | MAE:7.4 | MFE:20.6 | AH_Dst:12.5 | AL_Dst:-32.2 | LWk:6% | UWk:3%
@@ -60,3 +59,11 @@ Net Units (R): +35.00 R
 06-15 Mon Hr:14 | LNG | L | VW:0.5 | Vx:1.1 | PB:3.2 | Prc:1.8 | RN:12.4 | ADX:16 | EG:15.9 | hRSI:52 | ATR:3.4 | B:16 | SL:8.0 | SVR:3.0 | MAE:8.5 | MFE:6.9 | AH_Dst:-22.3 | AL_Dst:-2.7 | LWk:6% | UWk:6%
 06-16 Tue Hr:14 | LNG | W | VW:4.4 | Vx:1.2 | PB:4.0 | Prc:4.7 | RN:15.2 | ADX:14 | EG:1.3 | hRSI:49 | ATR:3.6 | B:4 | SL:8.1 | SVR:2.8 | MAE:3.5 | MFE:12.6 | AH_Dst:8.9 | AL_Dst:-24.7 | LWk:20% | UWk:20%
 06-18 Thu Hr:07 | SHT | W | VW:-1.3 | Vx:1.7 | PB:2.6 | Prc:2.8 | RN:9.1 | ADX:23 | EG:57.4 | hRSI:49 | ATR:3.9 | B:8 | SL:8.9 | SVR:5.1 | MAE:7.6 | MFE:14.6 | AH_Dst:-15.6 | AL_Dst:-10.9 | LWk:10% | UWk:50%
+06-22 Mon Hr:07 | SHT | W | VW:-8.0 | Vx:1.0 | PB:4.0 | Prc:7.0 | RN:6.6 | ADX:19 | EG:27.9 | hRSI:52 | ATR:3.9 | B:15 | SL:12.7 | SVR:3.8 | MAE:4.4 | MFE:21.5 | AH_Dst:-14.1 | AL_Dst:-5.6 | LWk:6% | UWk:2%
+06-23 Tue Hr:07 | LNG | L | VW:3.0 | Vx:1.3 | PB:5.4 | Prc:7.5 | RN:5.8 | ADX:19 | EG:2.6 | hRSI:41 | ATR:4.2 | B:12 | SL:14.4 | SVR:4.2 | MAE:17.9 | MFE:5.3 | AH_Dst:-5.4 | AL_Dst:-15.5 | LWk:15% | UWk:0%
+06-23 Tue Hr:10 | SHT | W | VW:-12.4 | Vx:0.9 | PB:4.4 | Prc:5.4 | RN:23.7 | ADX:18 | EG:13.3 | hRSI:48 | ATR:3.5 | B:15 | SL:8.8 | SVR:4.8 | MAE:3.8 | MFE:13.5 | AH_Dst:-25.9 | AL_Dst:5.0 | LWk:5% | UWk:13%
+06-23 Tue Hr:11 | SHT | W | VW:-13.8 | Vx:0.6 | PB:4.8 | Prc:4.0 | RN:20.5 | ADX:14 | EG:15.9 | hRSI:45 | ATR:3.8 | B:10 | SL:7.0 | SVR:3.5 | MAE:2.0 | MFE:11.6 | AH_Dst:-29.1 | AL_Dst:8.2 | LWk:47% | UWk:0%
+06-24 Wed Hr:07 | SHT | W | VW:-8.0 | Vx:1.0 | PB:2.3 | Prc:2.8 | RN:13.2 | ADX:23 | EG:23.2 | hRSI:52 | ATR:4.4 | B:5 | SL:9.2 | SVR:5.0 | MAE:6.1 | MFE:15.6 | AH_Dst:-22.3 | AL_Dst:-2.7 | LWk:12% | UWk:0%
+06-24 Wed Hr:09 | SHT | W | VW:-6.1 | Vx:1.1 | PB:5.7 | Prc:5.5 | RN:12.7 | ADX:17 | EG:23.9 | hRSI:50 | ATR:4.5 | B:19 | SL:9.3 | SVR:4.7 | MAE:5.9 | MFE:16.3 | AH_Dst:-21.8 | AL_Dst:-3.2 | LWk:32% | UWk:4%
+06-25 Thu Hr:07 | SHT | L | VW:-2.0 | Vx:1.5 | PB:3.7 | Prc:5.5 | RN:21.8 | ADX:24 | EG:10.5 | hRSI:50 | ATR:3.2 | B:12 | SL:11.0 | SVR:4.6 | MAE:11.7 | MFE:1.2 | AH_Dst:-13.4 | AL_Dst:-4.3 | LWk:23% | UWk:12%
+06-26 Fri Hr:07 | LNG | W | VW:12.3 | Vx:1.2 | PB:2.7 | Prc:7.6 | RN:6.3 | ADX:17 | EG:7.6 | hRSI:44 | ATR:3.7 | B:135 | SL:16.5 | SVR:3.2 | MAE:8.1 | MFE:25.7 | AH_Dst:-1.1 | AL_Dst:-12.5 | LWk:10% | UWk:2%
